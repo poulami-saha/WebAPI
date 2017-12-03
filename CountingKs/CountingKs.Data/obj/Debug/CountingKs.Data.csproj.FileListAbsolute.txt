@@ -1,0 +1,8 @@
+E:\WebAPI\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll.config
+E:\WebAPI\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll
+E:\WebAPI\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.pdb
+E:\WebAPI\Baseline\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.dll
+E:\WebAPI\Baseline\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.xml
+E:\WebAPI\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.csproj.CoreCompileInputs.cache
+E:\WebAPI\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.dll
+E:\WebAPI\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.pdb
